@@ -7,7 +7,7 @@ namespace Github_Tester
     {
         public static void Main(string[] args)
         {
-            Team team = GetTeam("Jays");
+            Team team = GetTeam("Blue Jays");
 
             for (int i = 0; i < 10000; i++)
             {
